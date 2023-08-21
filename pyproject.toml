@@ -18,5 +18,5 @@ classifiers = [
 ]
 
 [project.urls]
-"Homepage" = "https://github.com/zhaohany"
-"Bug Tracker" = "https://github.com/zhaohany"
+"Homepage" = "https://github.com/zhaohany/example_package_zhaohany"
+"Bug Tracker" = "https://github.com/zhaohany/example_package_zhaohany"
